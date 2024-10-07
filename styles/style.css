@@ -135,7 +135,6 @@ ol {
 .content__card-link:focus-visible {
   outline: 1px solid white;
   outline-offset: 1px;
-
 }
 
 
@@ -159,14 +158,10 @@ ol {
   line-height: 70.5px;
   font-family: 'Oswald', sans-serif;
   margin-bottom: 26px;
-
-
-
 }
 
 .content__accent {
   color: rgb(84 80 80);
-
 }
 
 .content__video-card-title {
@@ -180,7 +175,6 @@ ol {
   line-height: 16.2px;
   margin-top: 6px;
   font-size: 18px;
-
 }
 
 .visually-hidden {
@@ -191,7 +185,6 @@ ol {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
-
 }
 
 .search-form__fieldset {
@@ -200,7 +193,6 @@ ol {
   border-color: transparent;
   font-size: 18px;
   font-family: inherit;
-
 }
 
 .search-form__fieldset-title {
@@ -215,7 +207,6 @@ ol {
   justify-content: space-between;
   gap: 15px;
   padding-right: 18px;
-
 }
 
 .search-form__label {
@@ -224,7 +215,6 @@ ol {
   cursor: pointer;
   font-size: 18px;
   font-weight: 400;
-
 }
 
 .search-form__pseudo-checkbox::before {
@@ -273,7 +263,6 @@ ol {
   width: 194px;
   margin-top: 20px;
   justify-content: center;
-
 }
 
 .more-button {
@@ -288,7 +277,6 @@ ol {
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #fff;
   outline-offset: 1px;
-
 }
 
 .button:focus {
